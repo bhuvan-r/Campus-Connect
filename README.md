@@ -1,3 +1,3 @@
 # Campus-Connect
 
-Link: https://campusconnect.cf
+Link: https://campusconnect.cf/
